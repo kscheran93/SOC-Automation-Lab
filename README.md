@@ -9,14 +9,14 @@ Website Link : [SquareX](https://sqrx.com/)
 However, unlike existing products that block access to files and websites, SquareX allows you to open even suspicious or malicious resources fearlessly!
 When you SquareX extension you can see the dashboard
 
-![Dashboard](/SOC-Automation-Lab/images/Square_Main_dashboard.png)
+![Dashboard](/images/Square_Main_dashboard.png)
 
 ## Disposable Browser
 Fast, secure, and anonymous browsing from any worldwide location. Open suspicious websites fearlessly!
 When you choose to other country and click start for example i have choosen germany location, when i check my Ip address its shows the germany IP address.see the below 
 
-![Other Country location](/SOC-Automation-Lab/images/other_country_location_1.png)
-![Other Country location](/SOC-Automation-Lab/images/other_country_location_2.png)
+![Other Country location](/images/other_country_location_1.png)
+![Other Country location](/images/other_country_location_2.png)
 
 ## Malicious Website
 SquareX combines rules-based methods, heuristic analysis, and machine learning algorithms to continuously monitor web traffic patterns and user interactions. This combination is designed to identify and block potential online threats in real time within the browser. In addition to these proactive measures, SquareX also employs isolation technology. This technology is used when a user wishes to access a website that has been flagged as suspicious. The isolation solution creates a secure, separate environment where the user can view the website without exposing their system to potential risks. This environment acts as a containment area, preventing any potentially malicious content from affecting the user's device. This dual approach allows SquareX to provide effective online protection while giving users the option to safely explore websites that may pose a risk. Most of these features will only be available with our enterprise edition.
@@ -24,7 +24,7 @@ SquareX combines rules-based methods, heuristic analysis, and machine learning a
 ## Disposable File Viewer
 Safely view suspicious documents on the web or in your email.You never have to worry about file malware ever again!
 
-![Other Country location](/SOC-Automation-Lab/images/file_check.png)
+![Other Country location](/images/file_check.png)
 
 with this you can check any malicious file
 
